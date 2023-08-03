@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.customTableHeadColumn1 {
+  font-size: 18px;
+  width: 110px;
+}
+
+.customTableHeadColumn2 {
+  font-size: 18px;
+  width: 140px;
+}
+
+.customTableHeadColumn3 {
+  font-size: 18px;
+}
+
+.customTableHeadColumn4 {
+  font-size: 18px;
+  width: 150px;
+}
